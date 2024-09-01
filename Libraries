@@ -1,0 +1,4 @@
+Open-CV-> pip install OpenCV-python
+CVZONE-> pip install cvzone
+MEDIAPIPE->pip install Medipipe
+
